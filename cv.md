@@ -32,14 +32,14 @@ I've been a Web developer for almost 5 years. I'm a full stack developer.
 Main activities:
 * writing parsers in PHP;
 * creating projects using Yii2;
-* adaptive layout from Figma, Adobe Photoshop using HTML5/CSS3.
+* adaptive layout from Figma, Adobe Photoshop using HTML5/CSS3/JS.
 
 ## Education
 * Minsk Radioengineering College
 * Belarusian State University of Informatics and Radioelectronics
 * Courses:
-  * [HTMLAcademy]https://htmlacademy.ru/
-  * [Learn.javascript]https://learn.javascript.ru/
+  * [HTMLAcademy](https://htmlacademy.ru/)
+  * [Learn.javascript](https://learn.javascript.ru/)
 
 ## Languages
 * English - elementary A2
