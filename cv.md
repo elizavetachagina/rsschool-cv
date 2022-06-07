@@ -5,8 +5,8 @@
 * **Location:** Minsk, Belarus
 * **Phone:** +375256845282
 * **Email:** elizavetachagina@yandex.by
-* **GitHub:** [elizavetachagina] (https://github.com/elizavetachagina)
-* **LinkedIn** [elizabethmartinovskaya] (https://www.linkedin.com/in/elizabethmartinovskaya/)
+* **GitHub:** [elizavetachagina](https://github.com/elizavetachagina)
+* **LinkedIn** [elizabethmartinovskaya](https://www.linkedin.com/in/elizabethmartinovskaya/)
 
 ## About Me
 Let me introduce myself. My name is Elizabeth. I will be 24 in Jule. I come from Belarus, I live in Minsk. I work as a Web developer. Almost 5 years of experience in a small company. I'm here to improve my knowledge.
@@ -38,8 +38,8 @@ Main activities:
 * Minsk Radioengineering College
 * Belarusian State University of Informatics and Radioelectronics
 * Courses:
-  * [HTMLAcademy] https://htmlacademy.ru/
-  * [Learn.javascript] https://learn.javascript.ru/
+  * [HTMLAcademy]https://htmlacademy.ru/
+  * [Learn.javascript]https://learn.javascript.ru/
 
 ## Languages
 * English - elementary A2
